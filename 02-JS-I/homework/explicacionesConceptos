@@ -1,0 +1,43 @@
+Variables:
+    Es un espacio de memoria que se reserva con un nombre para almacenar informacion que sera 
+    utilizada en la ejecucion de un programa
+
+    Ejemplo: var variable = colocamos cualquier valor que queremos que contenga la variable
+
+Strings:
+    Es un tipo de dato que se utilizan en los lenguajes de programación y se definen entre 
+    comillas simples o dobles
+
+    Ejemplo: var cadena = "Parafraseando"
+
+Funciones (argumentos, return):
+    Las funciones son trozos de codigos que definimos una vez para ser llamados varias veces en 
+    nuestro programa cuando sea necesario.
+
+    A las funciones se les pasan argumentos que son las variables que seran utilizadas para 
+    ejecutar las instrucciones que contienen nuestra funcion
+
+    Para retornar lo que ejecutamos en nuestra funcion utilizamos la palabra "return"
+
+    Ejemplo: function nombre_funcion(argumentos){
+                var variable = argumentos
+                return variable
+              }
+
+Declaraciones if
+    La declaracion if es un control de flujo para validar si una condicion es verdadera o falsa y 
+    tomar diferentes caminos en la ejecucion del programa dependiendo si la condicion es falsa 
+    toma un camino de lo contrario ejecuta otras instrucciones de ser necesario
+
+    Ejemplo: if (condicion es verdadera){
+                Se ejecutan las instrucciones dentro del if
+              }
+
+Valores booleanos (true, false)
+    Los valores booleanos son verdadero (true) o falso (false) generalmente son retornados 
+    cuando se realizan comparaciones
+
+    Ejemplo: 4 > 5 retorna false
+             1 == 1 retorna true
+
+
